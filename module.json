@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "product": "CyberHub",
+  "type": "module",
+  "id": "upscaler",
+  "name": "Upscaler",
+  "summary": "Upscale images locally with tiled ONNX Real-ESRGAN models.",
+  "version": "1.1.1-beta",
+  "minimum_hub_version": "1.3.0",
+  "repository": "cyberdeliaAI/CyberHub-Upscaler",
+  "publisher_type": "official",
+  "channel": "beta",
+  "dependencies": [],
+  "python_dependencies": [
+    "Pillow>=9.0",
+    "numpy>=1.24"
+  ]
+}
