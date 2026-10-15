@@ -31,3 +31,7 @@ CyberHub runs locally. A module uses an external service only when its function 
 ## License
 
 See `LICENSE.md` and `THIRD-PARTY-NOTICES.md`.
+
+## Version 1.1.2-beta
+
+Notice/license packaging update only; model assets and behavior are unchanged.

@@ -323,7 +323,7 @@ def _save_image_atomic(img, path, source_img=None):
 
 class UpscalerModule(Module):
     name = "Upscaler"
-    version = "1.1.1-beta"
+    version = "1.1.2-beta"
     release_stage = "beta"
     icon = "⬆"   # ⬆
     description = "Beta. Neural image upscaling (Real-ESRGAN / ESRGAN ONNX), with tiling."
